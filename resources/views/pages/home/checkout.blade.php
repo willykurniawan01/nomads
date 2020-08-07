@@ -206,7 +206,7 @@
             </div>
             <div class="join-container">
               <a
-                href="success.html"
+                href="{{route('checkout-success')}}"
                 class="btn btn-block btn-join-now mt-3 py-2"
                 >I Have Made Payment</a
               >
